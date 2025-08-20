@@ -9,6 +9,7 @@ This is a collection of some of mine mindmaps in Obsidian. No I did not design a
 * Pivot / Tunnels
 * Wireless network pentesting
 
+>NOTE: use Ctrl + mouse wheel to zoom and hold space bar to drag and pull to navigate 
 
 -----
 ## AD penetration testing Mindmap
