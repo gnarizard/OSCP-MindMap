@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2579827ee11f59a9","x":-1342,"y":1660,"width":250,"height":60,"type":"text","text":""},
 		{"id":"03439f32ac25ffce","type":"text","text":"```cmd\nwhoami /priv\n```","x":25,"y":-350,"width":250,"height":60},
 		{"id":"da87cf29f849c5ba","type":"text","text":"Check the privileges against this website: \n\nhttps://github.com/gtworek/Priv2Admin\n\nIf possible, exploit it!","x":540,"y":-218,"width":598,"height":138,"color":"1"},
 		{"id":"273faeca59041798","type":"text","text":"Is there any service that have permission to change configs?: \n```cmd\naccesschk.exe -uwcqv \"$username\" * \n```\n\n(we are looking for \"SERVICE_CHANGE_CONFIG\" privilege)","x":-150,"y":80,"width":600,"height":180,"color":"3"},
